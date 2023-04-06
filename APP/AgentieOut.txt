@@ -1,0 +1,12 @@
+Denumire: Agentie Imobiliara
+Telefon: 0745123456
+Adresa: Strada Liniei, nr. 1 
+CUI: 123456789
+Numar total imobile: 1
+Orar: 
+Prima zi a programului de lucru: Luni
+Ultima zi a programului de lucru: Sambata
+Intervalul orar al programului de lucru: 09:00-22:00
+Prima ora a programului de lucru: 9
+Ultima ora a programului de lucru: 22
+
